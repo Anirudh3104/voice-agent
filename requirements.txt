@@ -1,0 +1,12 @@
+# Core language + math
+numpy
+
+# Embeddings + multilingual support (Telugu)
+sentence-transformers
+torch
+
+# Vector database for RAG
+faiss-cpu
+
+# (Optional but safe) for progress bars/logging
+tqdm
